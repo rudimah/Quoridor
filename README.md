@@ -1,6 +1,6 @@
 # Détails du projet
 
-Ce projet a été réalisé en binôme durant la 1ère année du BUT Informatique à l'IUT de Montreuil avec mon binôme Ariony92(pseudo GITHUB).
+Ce projet a été réalisé en binôme durant la 1ère année du BUT Informatique à l'IUT de Montreuil par [@Ariony92](https://github.com/Ariony92) et [@Rudimah](https://github.com/rudimah).
 
 L'objectif était de développer un jeu de société jouable sur le terminal, inspiré du jeu de stratégie Quoridor.
 
